@@ -1,0 +1,16 @@
+{
+  "name": "cell-computer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dicebear/avatars": "^4.10.3",
+    "@dicebear/open-peeps": "^4.10.3",
+    "nuronjs": "^0.1.7"
+  }
+}
